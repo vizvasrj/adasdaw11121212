@@ -1,0 +1,8 @@
+eater0001 menu0002 menu0002
+eater0002 menu0007 menu0001 menu0001
+eater0003 menu0006 menu0005
+eater0004 menu0003 menu0004
+eater0005 menu0005 menu0001 menu0008
+eater0006 menu0008 menu0004 menu0005
+eater0007 menu0001 menu0003
+eater0008 menu0001 menu0008 menu0007
